@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Mouse",
+    "description": "DELL",
+    "quantity": 50,
+    "price": 250
+  },
+  {
+    "id": 2,
+    "name": "Keyboard",
+    "description": "HP",
+    "quantity": 45,
+    "price": 200
+  },
+  {
+    "id": 3,
+    "name": "Monitor",
+    "description": "ACER",
+    "quantity": 25,
+    "price": 3000
+  },
+  {
+    "id": 4,
+    "name": "Graphics Card",
+    "description": "RYZEN",
+    "quantity": 75,
+    "price": 2000
+  },
+  {
+    "id": 5,
+    "name": "Router",
+    "description": "TP-Link",
+    "quantity": 10,
+    "price": 500
+  },
+  {
+    "name": "Laptop",
+    "description": "Asus",
+    "quantity": "52",
+    "price": "60000",
+    "id": 6
+  }
+]
